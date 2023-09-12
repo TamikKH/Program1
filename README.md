@@ -3,7 +3,7 @@
 Хетагуров Тамерлан Аланович
 Группа пиж-б-о-22-1
 
-'''
+'''python
 import numpy as np
 import matplotlib.pyplot as mpl
 fig, ax = mpl.subplots(1,1)
